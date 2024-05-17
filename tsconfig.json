@@ -34,10 +34,10 @@
     /* Print names of files part of the compilation. */,
     "pretty": true,
     "allowJs": true,
-/*
-    "lib": [
-      "es7", "dom"
-    ],*/
+    /*
+        "lib": [
+          "es7", "dom"
+        ],*/
     "types": ["jest", "node"]
   },
   "include": [

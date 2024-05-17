@@ -95,7 +95,7 @@ export class PEXv2 extends PEX {
    * @param presentationDefinition the v2 definition of what is expected in the presentation.
    * @param selectedCredentials the credentials which were declared selectable by getSelectableCredentials and then chosen by the intelligent-user
    * (e.g. human).
-   * @param opts? - holderDID optional; the decentralized identifier of the Credential subject. This is used to identify the holderDID of the presentation.
+   * @param opts - holderDID optional; the decentralized identifier of the Credential subject. This is used to identify the holderDID of the presentation.
    *
    * @return the presentation.
    */

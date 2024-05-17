@@ -1,3 +1,5 @@
+import 'string.prototype.matchall/auto';
+
 import { Checked, NonEmptyArray, Status } from './ConstraintUtils';
 import { PEX } from './PEX';
 import { PEXv1 } from './PEXv1';
