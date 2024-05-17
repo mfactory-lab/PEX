@@ -1,5 +1,5 @@
 {
-  "name": "@sphereon/pex",
+  "name": "@albus-finance/pex",
   "version": "3.3.3",
   "description": "A Typescript implementation of the v1 and v2 DIF Presentation Exchange specification",
   "main": "dist/main/index.js",
